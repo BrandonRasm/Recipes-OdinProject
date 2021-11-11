@@ -1,8 +1,34 @@
-.header .main{
+.header.main{
     font-size: 44px;
     background-color: aqua;
 }
 h1 {
     font-size: 34px;
     background-color: greenyellow;
+}
+img {
+    height: 450px;
+    width: auto;
+}
+
+ul{
+    background-color: rgb(100, 255, 139);
+}
+ol{
+    background-color: rgb(230, 73, 73);
+}
+ul li{
+    background-color: burlywood;
+}
+
+p{
+    color: darkmagenta;
+}
+
+h2{
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: rgb(183, 99, 252);
 }
